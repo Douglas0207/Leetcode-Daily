@@ -16,17 +16,21 @@ Focus: **Linked Lists, Two Pointers, Sliding Window, Trees** and more as I go.
 
 ## ✅ Daily Progress – June 2025
 
-| Day  | Date       | Topic        | Problem Title                          | LeetCode # | Status |
-|------|------------|--------------|----------------------------------------|------------|--------|
-| 1    | June 1     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 2    | June 2     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 3    | June 3     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 4    | June 4     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 5    | June 5     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 6    | June 6     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 7    | June 7     | Linked List  | *[Your Problem Title]*                 | #          | ✅     |
-| 8    | June 8     | TBD          | *To Be Updated*                        |            | ✅     |
-| ...  | ...        | ...          | ...                                    | ...        |        |
+
+- [x] Day 1 – 1 problem solved.  
+Leetcode Problem Number 2. Add Two Numbers.  
+- [x] Day 2 – 1 problem solved.   
+Leetcode Problem Number 19. Remove Nth Node From End of List.  
+- [x] Day 3 – 1 problem solved.  
+Leetcode Problem Number 328. Odd Even Linked List.  
+- [x] Day 4 – 1 problem solved.  
+Leetcode Problem Number 876. Middle of the Linked List.  
+- [x] Day 5 – 1 problem solved.  
+Leetcode Problem Number 206. Reverse Linked List.  
+- [x] Day 6 – 1 problem solved.  
+Leetcode Problem Number 206. Reverse Linked List(RECURSIVE).  
+- [x] Day 7 – 1 problem solved.  
+Leetcode Problem Number 237. Delete Node in a Linked List.  
 
 > ✅ Update this daily — your repo is your record. Be proud of your persistence.
 
