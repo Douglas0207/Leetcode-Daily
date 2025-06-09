@@ -32,7 +32,7 @@ Leetcode Problem Number 206. Reverse Linked List(RECURSIVE).
 - [x] Day 7 – 1 problem solved.  
 Leetcode Problem Number 237. Delete Node in a Linked List.
 - [x] Day 7 – 1 problem solved.  
-Leetcode Problem Number 141. Linked List Cycle 
+Leetcode Problem Number 141. Linked List Cycle.  
 
 > ✅ Update this daily — your repo is your record. Be proud of your persistence.
 
