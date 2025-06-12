@@ -35,7 +35,7 @@ Leetcode Problem Number 237. Delete Node in a Linked List.
 Leetcode Problem Number 141. Linked List Cycle.  
 - [x] Day 9 – 1 problem solved.  
 Leetcode Problem Number 148. Sort List.  
-- [x] Day 9 – 1 problem solved.  
+- [x] Day 10 – 1 problem solved.  
 Leetcode Problem Number 148. Sort List.  
 > ✅ Update this daily — your repo is your record. Be proud of your persistence.
 
