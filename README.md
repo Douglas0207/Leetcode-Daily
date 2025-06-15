@@ -43,7 +43,7 @@ Leetcode Problem Number 142. Linked List Cycle II.
 Leetcode Problem Number 142. Linked List Cycle II.  
 - [x] Day 13 – 1 problem solved.  
 Leetcode Problem Number 142. Linked List Cycle II.
-- [x] Day 10 – 1 problem solved.  
+- [x] Day 14 – 1 problem solved.  
 Leetcode Problem Number 142. Linked List Cycle II.  
 > ✅ Update this daily — your repo is your record. Be proud of your persistence.
 
