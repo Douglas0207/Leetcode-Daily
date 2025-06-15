@@ -42,7 +42,7 @@ Leetcode Problem Number 876. Middle of the Linked List
 - [x] Day 12 – 1 problem solved.  
 Leetcode Problem Number 2095. Delete the Middle Node of a Linked List
 - [x] Day 13 – 1 problem solved.  
-Leetcode Problem Number 142. Linked List Cycle II.
+Leetcode Problem Number 160. Intersection of Two Linked Lists
 - [x] Day 14 – 1 problem solved.  
 Leetcode Problem Number 142. Linked List Cycle II.  
 > ✅ Update this daily — your repo is your record. Be proud of your persistence.
