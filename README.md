@@ -17,7 +17,7 @@ Focus: **Linked Lists, Two Pointers, Sliding Window, Trees** and more as I go.
 ## ✅ Daily Progress – June 2025
 
 
-- [x] Day 1 – 1 problem solved.  
+- [x] Day 1 – 1 problem solved. 
 Leetcode Problem Number 2. Add Two Numbers.  
 - [x] Day 2 – 1 problem solved.   
 Leetcode Problem Number 19. Remove Nth Node From End of List.  
