@@ -1,4 +1,4 @@
-# 📅 LeetCode Daily Streak Trac
+# 📅 LeetCode Daily Streak Track
 
 Welcome to my ongoing journey of solving **LeetCode problems daily** — even during my semester exams!  
 This isn't a strict challenge like my previous [60-day grind]([https://github.com/your-60-day-repo-link](https://github.com/Douglas0207/30-days-Challenge)), but a **commitment to consistency**. Even 1 problem a day keeps the DSA fears away. 💪
