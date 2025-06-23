@@ -52,7 +52,7 @@ Leetcode Problem Number 217. Contains Duplicate
 ## 🧠 Mindset
 
 > _"Success doesn’t come from what you do occasionally. It comes from what you do consistently."_  
-Even during **exams**, I'm solving problems because I'm chasing consistency, not perfection.
+Even during **exams**, I'm solving problems because I'm chasing consistency, 
 
 ---
 
