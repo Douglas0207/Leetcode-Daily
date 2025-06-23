@@ -52,7 +52,6 @@ Leetcode Problem Number 217. Contains Duplicate
 ## 🧠 Mindset
 
 > _"Success doesn’t come from what you do occasionally. It comes from what you do consistently."_  
-Even 
 
 ---
 
